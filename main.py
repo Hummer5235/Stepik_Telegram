@@ -3,7 +3,6 @@ import pprint
 from typing import Tuple
 
 print('Hello World')
-print('Hello World')
 
 
 def foo(x:int) -> Tuple [int,float]:
