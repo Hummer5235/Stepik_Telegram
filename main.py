@@ -8,8 +8,8 @@ print('Hello World')
 def foo(x:int) -> Tuple [int,float]:
     return x,math.pi
 
-def say_something(number:int, word:str):
-    print(word.)
+# def say_something(number:int, word:str):
+#     print(word.)
 
 pprint.pprint('Hello')
 
